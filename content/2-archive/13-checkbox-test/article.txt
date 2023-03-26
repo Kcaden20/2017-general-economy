@@ -1,0 +1,49 @@
+Title: checkbox-test
+
+----
+
+Subtitle: 
+
+----
+
+Author: Marty Wood
+
+----
+
+Date: 2017-07-31
+
+----
+
+Text: Test test test
+
+----
+
+Featured: feature
+
+----
+
+Tags: architecture
+
+----
+
+Toggle: true
+
+----
+
+Feature: no
+
+----
+
+Imagefield: 16754464_1270701326343505_43305304_n.jpg
+
+----
+
+Pin: false
+
+----
+
+Featureimage: 16754464_1270701326343505_43305304_n.jpg
+
+----
+
+Category: Marty Wood

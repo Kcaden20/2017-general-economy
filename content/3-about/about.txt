@@ -1,0 +1,17 @@
+Title: About
+
+----
+
+Text: General Economy is a platform for culture and criticism instigating conversations at the intersection of art, architecture, technology and politics. General Economy circulates new ideas and foregrounds new voices within larger artistic, social, political, and aesthetic contexts.
+
+----
+
+Intro: Text text text
+
+----
+
+About: General Economy is a platform for culture and criticism instigating conversations at the intersection of art, architecture, technology and politics. General Economy circulates new ideas and foregrounds new voices within larger artistic, social, political, and aesthetic contexts.
+
+----
+
+Contributor: Below is a list of the following people who have contributed content to General Economy:

@@ -1,0 +1,21 @@
+Title: General Economy
+
+----
+
+Author: Kevin Cadena
+
+----
+
+Description: This is General Economy’s Website
+
+----
+
+Copyright: © (date: Year) (link: http://getkirby.com text: General Economy)
+
+----
+
+Keywords: 
+
+----
+
+Favicon: favicon.ico

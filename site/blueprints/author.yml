@@ -1,0 +1,41 @@
+title: author
+
+options:
+  status: false
+
+pages: false
+
+fields:
+  name:
+    label: Name
+    type:  text
+
+  biography:
+    label: Biography
+    type: textarea
+
+  image:
+    label: Feature Image
+    type:  image
+
+  email:
+    label: E-mail
+    type: email
+    width: 1/2
+
+  website:
+    label: Website
+    type: url
+    width: 1/2
+
+  twitter:
+    label: Twitter
+    type: text
+    placeholder: @
+    icon: twitter
+
+  info:
+    label: Hint
+    type: info
+    text: >
+      Be sure to include the http piece when inputting a URL for the website!

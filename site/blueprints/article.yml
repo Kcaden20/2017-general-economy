@@ -1,0 +1,59 @@
+title: Article
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+
+  subtitle:
+    label: Subtitle
+    type: text
+
+  author:
+    label: Author
+    type: select
+    options: query
+    query:
+      page: authors
+      fetch: children
+      value: '{{name}}'
+      text: '{{name}}'
+
+  date:
+    icon: calendar
+    label: Date
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+
+  text:
+    label: Text
+    type: textarea
+
+  feature:
+    label: Is This A Feature Page?
+    type: fieldtoggle
+    default: "no"
+    options:
+      yes: "Yes"
+      no:  "No"
+    show:
+      yes: featureimage
+    hide:
+      no:  featureimage
+
+  featureimage:
+    label: Feature Image
+    type:  image
+
+  tags:
+    label: Tags
+    type: tags
+    lower: true
+
+

@@ -1,0 +1,14 @@
+title: Authors
+
+options:
+  preview: false
+  status: false
+pages:
+  template: author
+
+fields:
+  info:
+    label: About
+    type: info
+    text: >
+      The Authors Page is used to add all of the authors you can then select when creating new article posts. After filling this out and then adding them to a article, they will be added to the contributors section and have their own page with all their articles listed.
